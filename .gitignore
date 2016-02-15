@@ -1,0 +1,7 @@
+.sw[op]
+.*.sw[op]
+output
+*~
+*.pyc
+
+cache
